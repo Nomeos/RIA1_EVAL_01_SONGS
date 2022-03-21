@@ -33,6 +33,7 @@ module.exports = class Artist{
      * @exception throws DateOfBirthException if DateOfBirth was not provided
      */
     toString(withDateOfBirth = false){
+        //InitialCommit
         throw new Error();
     }
     //endregion public methods
